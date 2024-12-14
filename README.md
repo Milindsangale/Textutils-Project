@@ -5,14 +5,14 @@ The **TextUtils-Project** is a robust web application designed to efficiently ma
 ---
 
 ## 🔗 Live Demo  
-![Screenshot 2024-12-14 191107](https://github.com/user-attachments/assets/1ec55756-ca34-4c37-8b0c-11798cb31d13)
+
 
 
 ---
 
 ## 🚀Textutils-Project Preview 
 <!-- ![1708148800306](https://github.com/user-attachments/assets/1dc0e409-109f-4973-a7a5-bb69c9606730) -->
-![alt text](<Screenshot 2024-12-14 000810.png>)
+![Screenshot 2024-12-14 191107](https://github.com/user-attachments/assets/1ec55756-ca34-4c37-8b0c-11798cb31d13)
 ---
 ## 📜 About the Project  
 The **TextUtils-Project** is a robust web application designed to efficiently manipulate text content. Built using the powerful combination of **React** for dynamic user interfaces and **Bootstrap** for responsive design, this tool offers a suite of essential text operations.*.
