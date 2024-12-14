@@ -3,10 +3,22 @@ import './App.css';
 import Navbar from './components/Navbar';
 import Textform from './components/Textform';
 import React, {useState} from 'react';
+import Alert from './components/Alert';
 /* import About from './components/About'; */
 function App() {
-  const [mode, setMode] = useState('light');         /* usestate */
+  const [mode, setMode] = useState('light');  
+  const [alert, setAlert] = useState(null);
    
+  const showAlert = (message, type)=>{
+    setAlert({
+      msg: message,
+      type: type
+    })
+    setTimeout(() => {
+        setAlert(null);
+    }, 1500);
+} 
+
   const toggleMode = ()=>{
     if(mode === 'light'){
       setMode('dark');
@@ -21,8 +33,8 @@ function App() {
 }
   return (
    <>
-<Navbar title ="Textutils" mode={mode} toggleMode={toggleMode}
-About="Textutils About" Home="Home"/>  {/* props */}
+<Navbar title ="Textutils" mode={mode} toggleMode={toggleMode} About="Textutils About" Home="Home"/>  
+<Alert alert="This is alert"/>
 <div className="container my-3">
   <Textform heading ="Enter the text to analyze below" mode={mode}/> 
  {/*  <About/> */}
