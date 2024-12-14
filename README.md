@@ -1,2 +1,49 @@
-![1708148800306](https://github.com/user-attachments/assets/1dc0e409-109f-4973-a7a5-bb69c9606730)
+
+# 🌟 Textutils-Project Using React and Bootstrap
+
+The **TextUtils-Project** is a robust web application designed to efficiently manipulate text content. Built using the powerful combination of **React** for dynamic user interfaces and **Bootstrap** for responsive design, this tool offers a suite of essential text operations.
+---
+
+## 🔗 Live Demo  
+[[Click here to explore the website](https://github.com/Milindsangale/Textutils-Project?tab=readme-ov-file)] 
+
+---
+
+## 🚀 Netflix Clone Preview 
+<!-- ![1708148800306](https://github.com/user-attachments/assets/1dc0e409-109f-4973-a7a5-bb69c9606730) -->
 ![alt text](<Screenshot 2024-12-14 000810.png>)
+---
+## 📜 About the Project  
+The **TextUtils-Project** is a robust web application designed to efficiently manipulate text content. Built using the powerful combination of **React** for dynamic user interfaces and **Bootstrap** for responsive design, this tool offers a suite of essential text operations.*.
+
+## 🚀 Technologies Used  
+
+**-React:**
+🔹Manages the application's state and UI components.
+🔹Handles user interactions and updates the UI dynamically.
+🔹Uses React Hooks for efficient state management and side effects.
+
+**-Bootstrap:**
+🔹Provides a responsive and mobile-friendly layout.
+🔹Offers pre-built UI components like buttons, forms, and cards.
+🔹Enhances the visual appeal and user experience.
+---
+
+## ✨ Features  
+
+**🔹Text Case Conversion:**
+**-Uppercase:** Converts all text to uppercase.
+**-Lowercase:** Converts all text to lowercase.
+**-Sentence Case:** Capitalizes the first letter of each sentence.
+**-Title Case:** Capitalizes the first letter of each word.
+
+**🔹Text Analysis:**
+**-Word Count:** Counts the number of words in the text.
+**-Character Count:** Counts the number of characters in the text.
+**-Space Count:** Counts the number of spaces in the text.
+
+**🔹Text Formatting:**
+**-Remove Extra Spaces:** Eliminates extra spaces from the text.
+
+**🔹Text Preview:**
+**-Preview Area:** Displays the formatted text in a dedicated preview area.
