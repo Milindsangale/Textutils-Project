@@ -5,7 +5,8 @@ The **TextUtils-Project** is a robust web application designed to efficiently ma
 ---
 
 ## 🔗 Live Demo  
-[[Click here to explore the website](https://github.com/Milindsangale/Textutils-Project?tab=readme-ov-file)] 
+![Screenshot 2024-12-14 191107](https://github.com/user-attachments/assets/1ec55756-ca34-4c37-8b0c-11798cb31d13)
+
 
 ---
 
