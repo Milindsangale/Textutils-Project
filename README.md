@@ -9,7 +9,7 @@ The **TextUtils-Project** is a robust web application designed to efficiently ma
 
 ---
 
-## 🚀 Netflix Clone Preview 
+## 🚀Textutils-Project Preview 
 <!-- ![1708148800306](https://github.com/user-attachments/assets/1dc0e409-109f-4973-a7a5-bb69c9606730) -->
 ![alt text](<Screenshot 2024-12-14 000810.png>)
 ---
