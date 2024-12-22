@@ -4,7 +4,7 @@
 The **TextUtils-Project** is a robust web application designed to efficiently manipulate text content. Built using the powerful combination of **React** for dynamic user interfaces and **Bootstrap** for responsive design, this tool offers a suite of essential text operations.
 
 ## 🔗 Live Demo  
-[[Click here to explore the website](https://github.com/Milindsangale/newsApp-Project)] 
+[[Click here to explore the website](https://milindsangale.github.io/Textutils-Project/)] 
 
 ---
 
